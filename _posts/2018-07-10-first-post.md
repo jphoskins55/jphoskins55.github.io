@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: First Post
 ---
@@ -15,7 +15,7 @@ The goal of this project is to utilize publicly available data to develop a reco
 
 **Key Assumptions**
 
-The first two assumptions are related to how we identified our target audience…proxies for interest in technology and willingness to contribute  
+The first two assumptions are related to how we identified our target audience (i.e. proxies for interest in technology and willingness to contribute)  
 -&nbsp;&nbsp;&nbsp;Individuals who live or work in areas with a greater density of technology companies will have a higher propensity to engage and participate in technology related causes  
 -&nbsp;&nbsp;&nbsp;Individuals who live in areas with higher donor penetration will have a higher propensity to engage and contribute to charitable causes 
 
