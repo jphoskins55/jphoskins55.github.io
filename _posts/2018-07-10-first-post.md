@@ -39,11 +39,11 @@ The final assumptions are related to timing and available resources
 •&nbsp;&nbsp;&nbsp;The available data includes selected income and tax items classified by State, Zip code, and AGI (adjusted gross income)  
 •&nbsp;&nbsp;&nbsp;The most recent year available is 2015  
 •&nbsp;&nbsp;&nbsp;The subset of data that was used in this analysis includes the following:  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Zip code (ZIPCODE)  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Total number of returns (N02650)  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Total income amount (A02650)  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Number of returns with contributions (N19700)  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Contributions amount (A19700)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Zip code (ZIPCODE)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Total number of returns (N02650)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Total income amount (A02650)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Number of returns with contributions (N19700)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Contributions amount (A19700)  
 •&nbsp;&nbsp;&nbsp;This data is available for individuals who itemize on their federal tax returns (approximately 30% of all returns)   
 •&nbsp;&nbsp;&nbsp;The data URL is: https://www.irs.gov/pub/irs-soi/15zpallagi.csv  
 •&nbsp;&nbsp;&nbsp;The documentation URL is: https://www.irs.gov/pub/irs-soi/15zpdoc.doc  
@@ -72,19 +72,19 @@ Combined Donor penetration and Technology company density resulted in the follow
 •&nbsp;&nbsp;&nbsp;Divide the resources between the two stations   
 •&nbsp;&nbsp;&nbsp;Deploy on Wednesday and Thursdays during the evening commute  
 •&nbsp;&nbsp;&nbsp;We estimate we will reach  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;~40k people / hour between 5-9pm in Union Square   
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;~60k people / hour between 6-8pm in Penn Station  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;~40k people / hour between 5-9pm in Union Square   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;~60k people / hour between 6-8pm in Penn Station  
 
 **Additional Resource Consideration**  
 
 •&nbsp;&nbsp;&nbsp;Transportation Hub  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Connects NJ Path,123, 456, and Brooklyn  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Third highest foot traffic overall, when combined  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Set up table in oculus shopping center  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Connects NJ Path,123, 456, and Brooklyn  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Third highest foot traffic overall, when combined  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Set up table in oculus shopping center  
 •&nbsp;&nbsp;&nbsp;Fulton Center:  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Donor percent = 33.7%, 2 tech companies  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Donor percent = 33.7%, 2 tech companies  
 •&nbsp;&nbsp;&nbsp;WTC PATH:  
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Donor percent = 43.8%, zero tech companies  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Donor percent = 43.8%, zero tech companies  
 
  
 
