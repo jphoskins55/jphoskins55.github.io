@@ -3,10 +3,9 @@ permalink:           pretty
 
 # Setup
 title:               James Hoskins
-tagline:             CLass Blog
-url:                 jphoskins55.github.io
+tagline:             Class Blog
+url:                 http://jphoskins55.github.io
 paginate:            2
-baseurl:             ""
 
 # Assets
 #
